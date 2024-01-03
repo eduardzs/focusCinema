@@ -1,0 +1,35 @@
+html {
+    font-family: Arial;
+    background-color: #fdfff7;
+}
+
+p {
+    font-size: 16px;
+    color: #50514f;
+}
+
+h2 {
+    color: #fcc61d;
+}
+
+a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #eb5e28;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+#rodape {
+    color: #ccc5b9;
+}
+
+.estreia {
+    color: darkred;
+}
+
+.amanha {
+    color: darkblue;
+}
